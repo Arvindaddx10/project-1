@@ -1,0 +1,2 @@
+you just have to load your images in images folder and create an folder of your images 
+and see the magic
